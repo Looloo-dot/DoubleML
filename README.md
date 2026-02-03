@@ -1,4 +1,4 @@
-# DoubleML: AI x Econometrics Project
+# DoubleML
 
 This project demonstrates how **modern machine learning** can be used to solve **econometric causal inference problems**.  
 It implements **Double/Debiased Machine Learning with Instrumental Variables (DML-PLIV)** and the **R-learner** to estimate:
@@ -15,3 +15,7 @@ EML/
 ├── requirements.txt # reproducible dependencies
 ├── README.md # documentation
 └── figs/ # auto-generated plots
+
+---
+
+*reproduced content from university module
